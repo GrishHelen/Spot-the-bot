@@ -9,3 +9,5 @@ Used sourses:
 - Book "Computational topology. An introduction" by Herbert Edelsbrunner and John Harer
 
 The algorithm of computing the Betti numbers is mostly based on the book by Edelsbrunner & Harer.
+
+// To be completed
